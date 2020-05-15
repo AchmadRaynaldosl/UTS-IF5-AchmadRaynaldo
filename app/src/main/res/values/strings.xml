@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">AldoApps</string>
+    <string name="nameApps">Aldo Apps</string>
+
+    <string name="lanjut">Lanjut</string>
+    <string name="skip">Skip</string>
+    <string name="mulai">Mulai</string>
+    <string name="exit">EXIT</string>
+
+    <string name="slide_1_title">SELAMAT DATANG</string>
+    <string name="slide_1_desc">Selamat Datang Di Aplikasi Saya</string>
+    <string name="slide_2_title">About me</string>
+    <string name="slide_2_desc">Ayo Lebih Lebih Tau tentangku!</string>
+    <string name="slide_3_title">Ayo Mulai!</string>
+    <string name="slide_3_desc">Ayo! Mulai Menggunakan Aplikasi</string>
+
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Achmad Raynaldo</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="desc_profile1">Dilahirkan di kota Bandar Lampung pada tanggal 09-06-1999. Saya di berikan nama Achmad Raynaldo sl,
+        sebuah nama sederhana yang di berikan oleh kedua orang tua saya. Dicantumkan nama “achmad” pada nama saya merupakan wujud harapan dari
+        kedua orang tua saya agar buah hatinya menjadi sebenar-benarnya umat Nabi Muhammad.</string>
+    <string name="desc_profile2">Saya memiliki golongan darah A yang baru saya ketahui saat saya melakukan penusukan jarum test darah dengan mandiri pada saat saya berada di bangku SMA di lab biologi, setelah itu satu persatu kawan saya menyodorkan jarinya kepada saya agar bisa mengetahui golongan darahnya dan lulus test salah satu ujian di lab biologi.
+        Mengenai kepribadian saya memiliki sifat yang ramah dan senang bergaul, saya juga merupakan seorang individu yang memiliki keinginan tinggi untuk
+        bersosialisasi, bertemu serta berkerja sama dengan orang lain, bahkan dengan orang baru saya temui.</string>
+
+    <string name="desc_interest1">Dikaruniai dua orang teman yang dua dua nya merupakan atlit renang dan atlit lari,
+        saya menjadi tau bahwa sanya kegiatan olahraga renang dan olahraga lari merupakan kegiatan yang apabila dilakukan dua duanya dapat membuat pikiran lebih tenang dan  berpotensi menumbuhkan ide ide baru,
+        dari situlah saya mulai merutintakan aktivitas renang dan lari saya. Namun ketika saya kuliah di kota kembang yang terkenal dengan udaranya yang
+        sejuk dan dingin saya teringat bahwa saya memiliki alergi dingin dan selama hampir 3 rtahun di bandung 3 tahun juga saya tidak berenang.</string>
+    <string name="desc_interest2">Di tahun 2016-2017 saya bersama beberapa teman saya pernah mengadakan beberapa kali event donor darah,
+        dengan tujuan membantu pihak PMI untuk memenuhi kebutuhan kantung darah yang dibutuhkan di kota Bandar lampung,
+        dan kami mendapat lebih 200 kantung darah yang kami salurkan langsung kepada PMI. Maka dari itu selain olahraga kegiatan social  seperti donor
+        darah dan memberikan bantuan kepada orang yang sedang terkena bencana alam menurut saya amatlah baik dilakukan, selain kegiatan ini membantu orang
+        lain kegiatan ini juga dapat membuat kemampuan komunikasi yang baik. </string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_daily">Daily Activity</string>
+    <string name="menu_music">Music &amp; Video</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="tab1">Profile</string>
+    <string name="tab2">Interest</string>
+    <string name="tab3">Daily Activity</string>
+    <string name="tab4">Friend List</string>
+    <string name="tab5">Contact</string>
+    <string name="tab6">Find Me</string>
+    <string name="tab7">About Me</string>
+
+    <string name="nama">A</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
